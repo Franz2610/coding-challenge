@@ -1,0 +1,81 @@
+#title{
+  color: green;
+  padding: 1PX;
+  width: BLOCK;
+  font-size: 80px;
+  text-align: center;
+
+}
+.buttonfor{
+  background-color: rgba(0, 250, 0, 0.7);
+  padding: 5px;
+  text-align: center;
+}
+#imaggi{
+  width: auto;
+  text-align: center;
+  height: 10px;
+  font-size: 10px;
+}
+.container{
+  width: 1000px;
+  margin: auto;
+  background-color: rgba(128, 128, 128, 0.5);
+  border-radius: 0%;
+  padding: 10px;
+}
+#franz{
+  color: green;
+  border: 0;
+  background-color: green;
+  height: 50px;
+  border-color: green;
+  width: 500px;
+  display: inline-block;
+}
+#franz2{
+  color: red;
+  border: 0;
+  background-color: red;
+  height: 50px;
+  border-color: red;
+  width: 100px;
+  display: inline-block;
+}
+#franz3{
+  color: orange;
+  border: 0;
+  background-color: orange;
+  height: 50px;
+  border-color: orange;
+  width: 250px;
+  display: inline-block;
+}
+.nomesopra{
+  display: block;
+  color: lightgreen;
+  font-size: 35px;
+  text-align: center;
+}
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-color: black;
+  background-position: center;
+  background-size: 2500px;
+
+  }
+
+  header{
+    padding: 10px;
+  }
+  scan{
+    color: white;
+    font-size: 25px;
+  }
+  p{
+    color: white;
+  }
+  h5{
+    color: white;
+  }
